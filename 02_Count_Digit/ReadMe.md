@@ -11,3 +11,5 @@ For example, if `n = 5534`, the output should be: `4`
 ### 🔗 Online Practice Platform
 
 - **GeeksforGeeks**: [Count Digit Problem](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1)
+
+this patterns won't be in interview
