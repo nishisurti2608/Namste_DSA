@@ -60,3 +60,22 @@ Output:
 ### 🔗 Online Practice Platform
 
 [Not Applicable]
+
+## Problem : 4 : Right-Angled Repeated Number Triangle Pattern
+
+Print a right-angled triangle of stars with `n` rows.
+
+### Output
+
+For example, if `n = 3`, the output should be:
+
+```
+Output: 
+1
+2 2
+3 3 3
+```
+
+### 🔗 Online Practice Platform
+
+[Not Applicable]
