@@ -44,7 +44,7 @@ Output:
 
 ## Problem : 3 : Right-Angled Number Triangle Pattern
 
-Print a right-angled triangle of stars with `n` rows.
+Print a right-angled number triangle of stars with `n` rows.
 
 ### Output
 
@@ -63,7 +63,7 @@ Output:
 
 ## Problem : 4 : Right-Angled Repeated Number Triangle Pattern
 
-Print a right-angled triangle of stars with `n` rows.
+Print a right-angled repeated number triangle of stars with `n` rows.
 
 ### Output
 
@@ -74,6 +74,46 @@ Output:
 1
 2 2
 3 3 3
+```
+
+### 🔗 Online Practice Platform
+
+[Not Applicable]
+
+## Problem : 5 : Reverse Right-Angled Repeated Number Triangle Pattern
+
+Print a reverse right-angled repeated number triangle of stars with `n` rows.
+
+### Output
+
+For example, if `n = 3`, the output should be:
+
+```
+Output: 
+1 2 3 4
+1 2 3
+1 2
+1
+```
+
+### 🔗 Online Practice Platform
+
+[Not Applicable]
+
+## Problem : 6 : Right-Aligned Right-Angled Triangle of Stars
+
+Print a  right-aligned right-angled triangle of stars with `n` rows.
+
+### Output
+
+For example, if `n = 3`, the output should be:
+
+```
+Output: 
+      *
+    * *
+  * * *
+* * * *
 ```
 
 ### 🔗 Online Practice Platform
