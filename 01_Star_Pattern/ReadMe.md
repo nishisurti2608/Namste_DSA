@@ -41,3 +41,22 @@ Output:
 
 [Not Applicable]
 
+
+## Problem : 3 : Right-Angled Number Triangle Pattern
+
+Print a right-angled triangle of stars with `n` rows.
+
+### Output
+
+For example, if `n = 3`, the output should be:
+
+```
+Output: 
+1
+1 2 
+1 2 3
+```
+
+### 🔗 Online Practice Platform
+
+[Not Applicable]
