@@ -2,11 +2,11 @@
 
 // return an index of an element in an array
 
-function findIndex(a,n){
+function findIndex(array,number){
 
-    for (let i=0;i<a.length;i++){
+    for (let i=0;i<array.length;i++){
       
-      if(a[i] == n){
+      if(array[i] == number){
         return i;
       }
     
